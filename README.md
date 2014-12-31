@@ -1,4 +1,3 @@
-fuelsanitize
-============
+# FuelSanitize package
 
-Fuel Package to help cleaning some data
+A FuelPHP Package to help cleaning some data
